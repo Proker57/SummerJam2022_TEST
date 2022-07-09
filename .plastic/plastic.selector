@@ -1,0 +1,4 @@
+repository "SummerJam2022_TEST@BOYAREGames@cloud"
+  path "/"
+    br "/main"
+    co "/main"
